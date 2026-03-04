@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+拡張機能用にありとあらゆるファイルを置いておこうと思います
 <!--
 **paizakun/Paizakun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
